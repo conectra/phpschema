@@ -1,5 +1,5 @@
 {
-  "name": "solis/phpschema",
+  "name": "conectra/phpschema",
   "description": "The Expressive Schema package",
   "license": "MIT",
   "authors": [
@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "solis/phpbreaker": "~v1.0"
+    "conectra/phpbreaker": "~v1.0"
   },
   "autoload": {
     "psr-4": {
